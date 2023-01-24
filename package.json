@@ -1,0 +1,23 @@
+{
+  "name": "test-practice",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivasbolinga/test-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rivasbolinga/test-practice/issues"
+  },
+  "homepage": "https://github.com/rivasbolinga/test-practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
